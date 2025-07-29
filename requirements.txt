@@ -2,3 +2,4 @@ sentence-transformers
 pymupdf
 numpy
 scikit-learn
+pdfplumber
